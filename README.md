@@ -10,7 +10,7 @@ Load a `.mid` file and let tetoMIDI press the keyboard keys for you, while a fal
 [![License](https://img.shields.io/badge/license-GPL--3.0-green)](LICENSE)
 [![Discord](https://img.shields.io/badge/Discord-join%20us-5865F2?logo=discord&logoColor=white)](https://discord.gg/peaqm6uqgB)
 
-**English** · [Tiếng Việt](README.vi.md)
+**Image Preview**
 
 <img width="984" height="1320" alt="tetoMIDI-readmes-preview-player" src="https://github.com/user-attachments/assets/26845a42-bd9b-4243-a3d7-f927c11c038c" />
 
