@@ -2,7 +2,7 @@
 
 <img src="assets/banner.gif" width="900" alt="tetoMIDI player" />
 
-### 🎹 **MIDI macro player with a falling-note piano roll** 🎶
+### 🎹 **Tetomidi auto player roblox macro** 🎶
 
 Load a `.mid` file and let tetoMIDI press the keyboard keys for you, while a falling-note roll shows what is being played.
 
